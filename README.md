@@ -1,32 +1,27 @@
-## Welcome to GitHub Pages
+## datawhale project issue
 
-You can use the [editor on GitHub](https://github.com/PJSSABER/datawhale_ML-datamining/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+brief record and essence worth written down.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Task 2 Data EDA
 
-### Markdown
+target:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+familiar with the data-set
 
-```markdown
-Syntax highlighted code block
+relation between datas
 
-# Header 1
-## Header 2
-### Header 3
+preparing for data-engineering
 
-- Bulleted
-- List
+main-content:
 
-1. Numbered
-2. List
+data importing and visualization
 
-**Bold** and _Italic_ and `Code` text
+outline of data(pd.describe(),pd.info())
 
-[Link](url) and ![Image](src)
-```
+NAN value and inconsistent value
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+distribute ofd ata
+
 
 ### Jekyll Themes
 
