@@ -22,6 +22,29 @@ NAN value and inconsistent value
 
 distribute ofd ata
 
+### task 3 feature engineering
+
+main-content:
+
+1.exception data
+
+2.data normalization
+
+3.data bucket
+
+4.NAN-value process
+
+5.Feature construction
+
+6.Feature screening
+
+7.PCA，LDA,ICA
+
+useful functions:
+df.groupby()
+pd.cut()  for bucket
+sklearn.preprocessing
+pd.get_dummies()
 
 ### Jekyll Themes
 
