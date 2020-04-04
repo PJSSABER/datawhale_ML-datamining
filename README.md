@@ -122,9 +122,13 @@ main-content:
     
  
 
-### Jekyll Themes
+### task 5
+main content:
+1.stacking
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PJSSABER/datawhale_ML-datamining/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+2.blending
+
+3.bagging/boosting
 
 ### Support or Contact
 
